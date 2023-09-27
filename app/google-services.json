@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062033045884",
+    "project_id": "fir-cloudstorage-77942",
+    "storage_bucket": "fir-cloudstorage-77942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062033045884:android:8eea481ac18307b3774cf9",
+        "android_client_info": {
+          "package_name": "prabhakar.manish.firebasecloudstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxWnpqy6_QEqLb9nzdWoEv5YuEp7KLss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
